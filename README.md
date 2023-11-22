@@ -1,2 +1,2 @@
 # MachineLearning
-Logistic Regression
+Classifier based on logistic regression to recognize cats
